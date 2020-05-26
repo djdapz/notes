@@ -1,0 +1,20 @@
+Click on the ^^^ Quiz Portal tab above to open your quiz console
+
+ALL SET!
+  master $ kubectl get pods
+  No resources found in default namespace.
+  master $ kubectl get --healp
+Error: unknown flag: --healp
+
+
+Examples:
+  # List all pods in ps output format.
+  kubectl get pods
+
+  # List all pods in ps output format with more information (such as node name).
+  kubectl get pods -o wide
+
+  # List a single replication controller with specified NAME in ps output format.
+  kubectl get replicationcontroller web
+
+# List deployments i

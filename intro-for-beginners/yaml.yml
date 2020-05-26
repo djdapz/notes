@@ -1,0 +1,15 @@
+Employee:
+  Name: Jacob
+  Age: 30
+  Sex: Male
+  Title: Systems Engineer
+  Projects:
+    - Automation
+    - Support
+  Payslips:
+    - Month: June
+      Wage: 4000
+    - Month: July
+      Wage: 4500
+    - Month: August
+      Wage: 4000
